@@ -1,4 +1,4 @@
-## Olá, meu nome é Gustavo, futuro desenvolvedor Front-End 😁🤗
+## Olá, meu nome é Gustavo, futuro Desenvolvedor Front-End 😁🤗
 <div align="center">
   <a href="https://github.com/GustavoWakiBarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoWakiBarbosa&show_icons=true&theme=merko"/>
