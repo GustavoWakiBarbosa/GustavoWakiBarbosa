@@ -11,7 +11,7 @@
   <img align="center" alt="Waki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Waki-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right" alt="Waki-pic" height="150" style="border-radius:50px;" 
-  https://cdn-icons-png.flaticon.com/512/2572/2572708.png">
+  [https://cdn-icons-png.flaticon.com/512/2572/2572708.png](https://st3.depositphotos.com/11574170/32907/v/450/depositphotos_329070704-stock-illustration-programming-vector-color-line-icon.jpg)">
 </div>
   
   ##
