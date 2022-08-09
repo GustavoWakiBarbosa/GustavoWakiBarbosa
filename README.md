@@ -11,7 +11,7 @@
   <img align="center" alt="Waki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Waki-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right" alt="Waki-pic" height="150" style="border-radius:50px;" 
-  src="https://c.tenor.com/wpTtlCAEuzgAAAAM/haikyuu-hinata-shouyou.png">
+  src="[https://c.tenor.com/wpTtlCAEuzgAAAAM/haikyuu-hinata-shouyou.png](https://cdn-icons-png.flaticon.com/512/2572/2572708.png)">
 </div>
   
   ##
