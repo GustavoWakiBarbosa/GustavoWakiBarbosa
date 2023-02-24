@@ -19,8 +19,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-waki-128993224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavo.barbosa22@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gwaki159/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5519987334298&text=Ol%C3%A1%20Dev!%20Eu%20sou%20o%20Gustavo.%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=55119976866448&text=Ol%C3%A1%20Dev!%20Eu%20sou%20o%20Gustavo.%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/GustavoWakiBarbosa/GustavoWakiBarbosa/blob/output/github-contribution-grid-snake.svg)
  
