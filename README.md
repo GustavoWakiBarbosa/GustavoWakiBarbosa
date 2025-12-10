@@ -10,8 +10,6 @@
   <img align="center" alt="Waki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Waki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Waki-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Waki-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png">
 </div>
   
   ##
